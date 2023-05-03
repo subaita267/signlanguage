@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../test/images
+
+nc: 24
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G',  'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O','P', 'Q', 'S', 'T', 'U', 'W', 'X', 'Y', 'Z']
